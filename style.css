@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-color:rgb(236, 211, 70);
+    background-position: center;
+    font-family: Arial
+    Verdana;
+}
+.login-box{
+    width: 400px;
+    height: 350px;
+    background:whitesmoke;
+    color:gray;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+   
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+h1{
+    margin: 0;
+    margin-right: 0.5cm;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.login-box input{
+    width: 95%;
+    margin-bottom: 20px;
+    margin-left: initial;
+    
+    
+}
+.login-box input[type="text"], input[type="password"]
+{
+    border: solid rgb(224,224,224);
+    border-radius: 6px;
+    display: block;
+    background:rgb(224,224,224);
+    outline: none;
+    height: 40px;
+    color:gray;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+.login-box input[type="submit"]
+{
+    border: initial;
+    outline: none;
+    height: 40px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 8px;
+   
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
